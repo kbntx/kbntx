@@ -31,12 +31,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 
-## 🏆 My Stats:
-
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats-kbntxs-projects.vercel.app/api?username=kbntx&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" />&nbsp;&nbsp;
-</p>
-
 ## 🎮 When I'm AFK:
 
 ![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
