@@ -28,7 +28,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/digitalOcean" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/drone/0095F7" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 
 ## 🏆 My Stats:
