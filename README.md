@@ -1,41 +1,57 @@
 <div align="center">
-
-<img src="assets/lofi-bg.gif" width="80%"/>
-
+  <img src="assets/kenny-lofi-annecy.PNG" width="40%" />
+  <h3>Hey there 👋🏽 I'm Kenny</h3>
+  <p>Platform Engineer · Builder · Tinkerer</p>
 </div>
 
-## 👨🏽‍💻 About me:
+---
 
-- 🔭 I’m currently working as a senior software engineer at [Powerus](https://www.powerus.de) where we are building the #1 career platform for skilled blue-collar workers.
-- 🌱 I’m passionate about the immensity of software engineering and continuously trying to improve myself. My favorite areas are full-stack development and dev-ops.
-- 📝 I’m aiming to progress on system design and infrastructure-as-code during 2024.
+### 🧑🏽‍💻 About me
 
-<div>
+I'm a Staff Platform Engineer at [PowerUs](https://www.powerus.de) with a full-stack background. I build infrastructure, internal tooling, and developer workflows, basically anything that helps engineers ship faster and with less headaches. Currently deep into Go and exploring what will be next on my journey.
 
-## 💻 My Tech Stack:
+- 🔧 &nbsp; Day to day: EKS, ArgoCD, Terraform, Helm, Datadog, CI/CD, DX & internal tooling
+- 🏠 &nbsp; Running [**Nexus**](https://portfolio.kbntx.com/code-source/nexus) — my homelab for learning infra tooling hands-on
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/angular/red" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/capacitor" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/expo" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/digitalOcean" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/drone/0095F7" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+---
 
-## 🎮 When I'm AFK:
+### 🛠️ Tech Stack
 
-![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
-![Xbox Series](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) &nbsp;
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+**Languages & Scripting**
 
-</div>
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,go,cs,python,bash&perline=10" />
+</a>
+
+**Cloud & Infrastructure**
+
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,digitalocean,kubernetes,terraform,docker,argocd,helm,linux,cloudflare,nginx&perline=12" />
+</a>
+
+**Observability & Reliability**
+
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=datadog,prometheus,grafana,sentry&perline=10" />
+</a>
+
+**Backend & Frontend**
+
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,angular,react,dotnet,mongodb,postgres,rabbitmq,redis&perline=10" />
+</a>
+
+**CI/CD & Testing**
+
+<a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,jest,playwright,cypress,storybook&perline=10" />
+</a>
+
+---
+
+### ⚡ Beyond the IDE
+
+- 🎮 &nbsp; Gaming
+- 📺 &nbsp; Anime binges
+- ✈️ &nbsp; Exploring new countries
+- 🍜 &nbsp; Hunting the best food wherever I go
