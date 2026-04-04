@@ -11,7 +11,7 @@
 I'm a Staff Platform Engineer at [PowerUs](https://www.powerus.de) with a full-stack background. I build infrastructure, internal tooling, and developer workflows, basically anything that helps engineers ship faster and with less headaches. Currently deep into Go and exploring what will be next on my journey.
 
 - 🔧 &nbsp; Keeping the platform (Kubernetes, CI/CD, observability) solid so my team can focus on building and releasing fast, not firefighting
-- 🏠 &nbsp; Running [**Nexus**](https://portfolio.kbntx.com/code-source/nexus) — my homelab for learning infra tooling hands-on
+- 🏠 &nbsp; Running [**Nexus**](https://portfolio.kbntx.com/code-source/nexus) — my homelab for continuously experiimenting and learning platform tooling hands-on
 
 ---
 
