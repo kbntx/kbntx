@@ -36,6 +36,7 @@ I'm a Staff Platform Engineer at [PowerUs](https://www.powerus.de) with a full-s
   <img src="https://nexus-public-assets.kbntx.com/icons/argocd.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/helm.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/karpenter.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/tilt.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/linux.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/cloudflare.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/vault.svg" height="40" />
@@ -57,17 +58,26 @@ I'm a Staff Platform Engineer at [PowerUs](https://www.powerus.de) with a full-s
   <img src="https://nexus-public-assets.kbntx.com/icons/sentry.svg" height="40" />
 </p>
 
-**Backend & Frontend**
+**Backend**
 
 <p>
+  <img src="https://nexus-public-assets.kbntx.com/icons/nodejs.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/nest.js.svg" height="40" />
-  <img src="https://nexus-public-assets.kbntx.com/icons/angular.svg" height="40" />
-  <img src="https://nexus-public-assets.kbntx.com/icons/react.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/dotnet.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/mongodb.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/postgressql.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/rabbitmq.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/redis.svg" height="40" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://nexus-public-assets.kbntx.com/icons/angular.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/react.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/capacitor.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/sass.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/tailwindcss.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/nx.svg" height="40" />
 </p>
 
@@ -75,11 +85,13 @@ I'm a Staff Platform Engineer at [PowerUs](https://www.powerus.de) with a full-s
 
 <p>
   <img src="https://nexus-public-assets.kbntx.com/icons/gha.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/github.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/drone.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/jest.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/playwright.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/cypress.svg" height="40" />
   <img src="https://nexus-public-assets.kbntx.com/icons/storybook.svg" height="40" />
+  <img src="https://nexus-public-assets.kbntx.com/icons/postman.svg" height="40" />
 </p>
 
 ---
